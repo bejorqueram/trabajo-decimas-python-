@@ -1,2 +1,2 @@
 # trabajo-decimas-python-
-trabajo con decimas python
+Programa para gestionar reservas de un hotel.
